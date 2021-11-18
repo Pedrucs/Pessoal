@@ -1,2 +1,2 @@
-# Pessoal
-Meus projetos pessoais de Dev.
+# Projects in Python
+Meus projetos pessoais de Dev em Python.
