@@ -8,7 +8,7 @@ possible_action = ["pedra", "papel", "tesoura"]
 computer_action = random.choice(possible_action)
 
 #MOSTRANDO A ESCOLHA DE AMBOS
-print(f"\nVocê Escolheu {user_action}, A máquina escolheu {computer_action}.\n") 
+print(f"\nVocê Escolheu {user_action}, Seu oponente escolheu {computer_action}.\n") 
 
 #DETERMINANDO O VENCEDOR
 
